@@ -1,0 +1,8 @@
+{
+    "compilerOptions": {
+        "module": "NodeNext",
+        "noImplicitAny": true,
+        "noImplicitReturns": true,
+        "target": "ES2022"
+    }
+}
