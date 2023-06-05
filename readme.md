@@ -4,7 +4,7 @@ Quite simply; I put ChatGPT in a Discord Bot.
 ![GitHub package.json version (branch)](https://img.shields.io/github/package-json/v/BackwardsUser/ChatGPTBot/main) ![GitHub](https://img.shields.io/github/license/BackwardsUser/ChatGPTBot) ![GitHub issues](https://img.shields.io/github/issues-raw/BackwardsUser/ChatGPTBot)
 
 ## IMPORTANT
-As of June 5^th^ 2023, the bot may not work. My free trial ran out and am not interested in buying a plan, so use at your own risk.
+As of June 5<sup>th</sup> 2023, the bot may not work. My free trial ran out and am not interested in buying a plan, so use at your own risk.
 
 ## Installation
 #### Requirements
