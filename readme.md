@@ -10,12 +10,8 @@ As of June 5<sup>th</sup> 2023, the bot may not work. My free trial ran out and 
 #### Requirements
 [NodeJS](https://nodejs.org)  
 #### Running
-1. Click the `Code` button
-2. Click `Download as ZIP` button
-3. Unzip the file
-4. Inside the unzipped file, open a terminal
-5. In the terminal run: `npm i`
-6. than create a `.env` file.
+1. Clone the repository.
+2. Create a `.env` file.
 
 Your .env file should look like the following:
 ```js
@@ -23,8 +19,7 @@ TOKEN="YOUR_DISCORD_BOT_TOKEN"
 OPENAI_API_KEY="YOUR_OPENAI_API_KEY"
 ```
 
-7. Go back to the terminal
-8. Run `npm test`
+3. Run the command `npm test` in terminal.
 
 #### After install information
 
