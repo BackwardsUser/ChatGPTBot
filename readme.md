@@ -3,8 +3,9 @@ Quite simply; I put ChatGPT in a Discord Bot.
 
 ![GitHub package.json version (branch)](https://img.shields.io/github/package-json/v/BackwardsUser/ChatGPTBot/main) ![GitHub](https://img.shields.io/github/license/BackwardsUser/ChatGPTBot) ![GitHub issues](https://img.shields.io/github/issues-raw/BackwardsUser/ChatGPTBot)
 
-## IMPORTANT
-As of June 5<sup>th</sup> 2023, the bot may not work. My free trial ran out and am not interested in buying a plan, so use at your own risk.
+## Note
+This bot uses OpenAI's API for ChatGPT, their API is paid for at one cent per around 700 words.
+An API Key can be obtained from [OpenAI](https://openai.com/product).
 
 ## Installation
 #### Requirements
